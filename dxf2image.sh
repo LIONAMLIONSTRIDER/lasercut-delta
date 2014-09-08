@@ -1,0 +1,1 @@
+find  . -name *.dxf -exec /Applications/QCAD.app/Contents/Resources/dwg2bmp -width=1000 -height=1000 -resolution=5 -f -o {}.png {} ';'
