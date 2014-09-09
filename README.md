@@ -14,6 +14,10 @@ The printer is a conventional delta layout. Under active development. Either too
 ##Arms
 Both designs are intended to use magnetic balls glued to the effector and carriages, with bolts in aluminium tubing acting as the arms. 
 
+##HotEnd
+The effector is designed to work with the [E3D V6 HotEnd][1], but others can easily be accomodated
+
 ##Status
 Currently the body parts and some bearing carriages are cut and assembled. The next step is to finish the bearing carriages and assemble the effector.
 
+[1]: http://e3d-online.com/E3D-v6
