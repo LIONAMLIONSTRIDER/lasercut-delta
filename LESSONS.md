@@ -8,7 +8,7 @@ Use it. I have definitely lost changes through mis-placing copies of files. In t
 DXF Files are hard to diff! The dxf2image.sh script converts all DXF files into PNG images before I check in changes. GitHub (and other tools like [Beyond Compare][1]) supports diffing images, so I can now see differences between revisions
 
 ##Do not design parts which can be assembled more than one way
-I designed this printer and even I nearly glued parts together incorrectly. An example is the upright supports which glue together to form a square tube. The parts look nicer on screen with their interlocking tabs laid out symetricaly, but this allows you to assemble them with the tabs pointing in the wrong direction:
+I designed this printer and even I nearly glued parts together incorrectly. An example is the upright supports which glue together to form a square tube. The parts look nicer on screen with their interlocking tabs laid out symmetrically, but this allows you to assemble them with the tabs pointing in the wrong direction:
 ![Incorrrect assembly example](docs/assembly-example-exported.png)
 
 There are two solutions I can see to this:
