@@ -5,6 +5,7 @@
 * 18 * M3 nut/bolt/washer for securing bearings (8mm thread)
 * 12 * [10mm Spherical magnets][3]
 * 12 * [M5 Cap-Head bolts for arm-ends][4] 
+* 1 * [250mm Diameter Mirror][5] as print surface
 
 ##Extrusions
 * 3 * [2020 aluminium extrusion][1] - 750mm length
@@ -14,3 +15,4 @@
 [2]: http://www.aluminium-profile.co.uk/acatalog/aluminium_Profile_T_Nuts.html
 [3]: http://www.first4magnets.com/sphere-magnets-c45/10mm-dia-n42-neodymium-sphere-magnets-1-4kg-pull-p2452
 [4]: http://www.ebay.co.uk/itm/Pack-of-16-M5-X20mm-Steel-Allen-Socket-cap-Head-Bolts-/280630310680?ssPageName=ADME:L:OU:GB:3160
+[5]: http://www.amazon.co.uk/dp/B008GFQ9C4/ref=pe_385721_37038051_TE_3p_dp_1
