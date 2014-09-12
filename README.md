@@ -6,6 +6,8 @@ This repo contains a design for 3D a delta-stlye printer, largely built from las
 
 Parts are glued together to form final assemblies. If you've ever built an old-school balsa aircraft, you'll be right at home
 
+There is also a [list of other parts](VITAMINS.md) to complete the printer and a [few notes on designing for laser cut parts](LESSONS.md) which I've jotted down.
+
 ## Editing
 
 All files are authored using [QCad](http://www.qcad.org/en/) which has proven to work really well for this kind of 2D editing
